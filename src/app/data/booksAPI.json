@@ -1,0 +1,73 @@
+{
+   "books":[
+        {
+            "id": 1,
+            "authorsName": "Jorge Amado",
+            "title": "Capitães da Areia",
+            "cover_image": "https://images-na.ssl-images-amazon.com/images/I/413Nnar8Q7L._SX309_BO1,204,203,200_.jpg",
+            "pages": 342 ,
+            "releaseYear": 1937,
+            "price": 8.54
+        },
+
+        {
+            "id": 2,
+            "authorsName": "Isabel Allende",
+            "title": "A Casa dos Espíritos",
+            "cover_image": "https://m.media-amazon.com/images/I/41agZsIxgeL.jpg",
+            "pages": 529,
+            "releaseYear": 1982,
+            "price": 4.99
+        },
+
+        {
+            "id": 3,
+            "authorsName": "Pablo Neruda",
+            "title": "Canto Geral",
+            "cover_image": "https://images-na.ssl-images-amazon.com/images/I/612tys6YD6L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" ,
+            "pages": 418,
+            "releaseYear": 1950,
+            "price": 6.00
+        },
+
+        {
+            "id": 4,
+            "authorsName": "J.R.R. Tolkien",
+            "title": "O Silmarillion",
+            "cover_image": "https://images-na.ssl-images-amazon.com/images/I/51EZZWkTECL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "pages": 468,
+            "releaseYear": 1977,
+            "price": 2.49
+        },
+
+        {
+            "id": 5,
+            "authorsName": "Jorge Amado",
+            "title": "Tocaia Grande",
+            "cover_image": "https://m.media-amazon.com/images/I/51+KOn0Io5L._SY346_.jpg",
+            "pages": 505,
+            "releaseYear": 1984,
+            "price": 5.79
+        },
+
+        {
+            "id": 6,
+            "authorsName": "Gabriel García Marquez",
+            "title": "O amor nos tempos do cólera",
+            "cover_image": "https://images-na.ssl-images-amazon.com/images/I/51p69uLWp6L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "pages": 448,
+            "releaseYear": 1987,
+            "price": 3.60
+        },
+
+        {
+            "id": 7,
+            "authorsName": "J.R.R. Tolkien",
+            "title": "The Hobbit",
+            "cover_image": "https://images-na.ssl-images-amazon.com/images/I/51phEoA5C9L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "pages": 310,
+            "releaseYear": 1937,
+            "price": 3.00
+        }
+    ]
+}
