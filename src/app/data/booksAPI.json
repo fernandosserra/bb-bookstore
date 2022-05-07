@@ -62,12 +62,30 @@
 
         {
             "id": 7,
+            "authorsName": "Rick Riordan",
+            "title": "Percy Jackson and the Olympians",
+            "cover_image": "https://m.media-amazon.com/images/I/51g6mSuOirL._SY346_.jpg",
+            "pages": 396,
+            "releaseYear": 2009,
+            "price": 6.00
+        },
+        {
+            "id": 8,
             "authorsName": "J.R.R. Tolkien",
             "title": "The Hobbit",
             "cover_image": "https://images-na.ssl-images-amazon.com/images/I/51phEoA5C9L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
             "pages": 310,
             "releaseYear": 1937,
             "price": 3.00
+        },
+        {
+            "id": 9,
+            "authorsName": "José Mauro de Vasconcelos",
+            "title": "O meu pé de Laranja-Lima",
+            "cover_image": "https://images-na.ssl-images-amazon.com/images/I/41sN8Z91GIL._SY344_BO1,204,203,200_QL70_ML2_.jpg",
+            "pages": 232,
+            "releaseYear": 1968,
+            "price": 18.00
         }
     ]
 }
