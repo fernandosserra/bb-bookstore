@@ -13,7 +13,7 @@ import { ProductItemsComponent } from './shared/components/bookstore-app/product
 import { ProductListService } from './shared/services/product-list.service';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { SobreComponent } from './shared/components/sobre/sobre.component';
-import { SuporteComponent } from './shared/suporte/suporte.component';
+import { ContatoComponent } from './shared/components/contato/contato.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +26,7 @@ import { SuporteComponent } from './shared/suporte/suporte.component';
     ProductListComponent,
     ProductItemsComponent,
     SobreComponent,
-    SuporteComponent
+    ContatoComponent
   ],
   imports: [
     BrowserModule,
