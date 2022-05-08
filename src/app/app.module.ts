@@ -12,6 +12,8 @@ import { ProductListComponent } from './shared/components/bookstore-app/product-
 import { ProductItemsComponent } from './shared/components/bookstore-app/product-list/product-items/product-items.component';
 import { ProductListService } from './shared/services/product-list.service';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { SobreComponent } from './shared/components/sobre/sobre.component';
+import { SuporteComponent } from './shared/suporte/suporte.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +24,9 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
     BookstoreAppComponent,
     FiltersComponent,
     ProductListComponent,
-    ProductItemsComponent
+    ProductItemsComponent,
+    SobreComponent,
+    SuporteComponent
   ],
   imports: [
     BrowserModule,

@@ -3,11 +3,11 @@
     <img src="{{livro.cover_image}}" alt="" class="bd-placehorlder-img card-img-top" width="100%">
     
     <div class="card-body">
-        <p class="card-text">{{livro.title}}</p>
-        <p class="card-text">{{livro.pages}}</p>
-        <p class="card-text">{{livro.price | currency: 'BRL'}}</p>
-        <p class="card-text">{{livro.releaseYear}}</p>
-        <p class="card-text">{{livro.authorsName}}</p>
+        <p class="card-text">Título: {{livro.title}}</p>
+        <p class="card-text">Páginas: {{livro.pages}}</p>
+        <p class="card-text">Preço: {{livro.price | currency: 'BRL'}}</p>
+        <p class="card-text">Ano de Lançamento: {{livro.releaseYear}}</p>
+        <p class="card-text">Autor: {{livro.authorsName}}</p>
 
         <div class="btn-group">
             <button type="button" class="btn btn-sm btn-primary">Comprar</button>
